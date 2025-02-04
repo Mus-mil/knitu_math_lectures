@@ -5,5 +5,5 @@
 ---
 ## структура репозитория
 
-В папке **[mathanaliz](github.com/mus-mil/knitu_math_lectures/mathanaliz)** находятся конспекты по мат анализу  
+В папке **[mathanaliz](mathanaliz)** находятся конспекты по мат анализу  
 В папке linalg находятся конспкекты по линейной алгебре  
